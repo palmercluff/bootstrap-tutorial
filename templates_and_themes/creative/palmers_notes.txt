@@ -1,0 +1,1 @@
+There is an external https source in the source code of index.html. I downloaded the jquery.easing.min.js in this directory.
